@@ -1,0 +1,3 @@
+# Poster : Fusion Beats
+Posters not only grabs attention but also communicates the festival's essence, enticing potential attendees to mark their calendars. Imagine designing a poster for a music festival. In the poster, bold, dynamic typography announces the event's name and date, while vibrant imagery of musicians on stage captures the energy of the performances. A clear hierarchy ensures essential details like venue and ticket information are easily readable. The color palette complements the festival's theme, and the overall composition guides the viewer's eye smoothly from top to bottom.
+![Poster](https://github.com/Shib-Sankar-Das/CBTC_Task-2_Poster/assets/136646947/78cabc80-8701-45d5-9bdc-256d92762cd7)
